@@ -5,8 +5,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluştur
 ![örnek Proje](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## İnstallation
+                      
+Öncelikle projeyi clonelayın:
 
-Öncelikle projeyi clonelayın.()
+git clone https://github.com/pekarli-ekrem/kodluyoruzilkrepo.git
 
 
 ## Usage
