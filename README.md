@@ -28,3 +28,5 @@ pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://github.com/pekarli-ekrem/kodluyoruzilkrepo/blob/add-license-1/LICENSE)
+
+[Patika.dev](https://app.patika.dev/paths)
