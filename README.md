@@ -25,4 +25,4 @@ pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT]
+[MIT](https://github.com/pekarli-ekrem/kodluyoruzilkrepo#license)
